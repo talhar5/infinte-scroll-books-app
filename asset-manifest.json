@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infinite-scroll-books-app/static/css/main.aba9826d.css",
+    "main.js": "/infinite-scroll-books-app/static/js/main.b6e8a329.js",
+    "index.html": "/infinite-scroll-books-app/index.html",
+    "main.aba9826d.css.map": "/infinite-scroll-books-app/static/css/main.aba9826d.css.map",
+    "main.b6e8a329.js.map": "/infinite-scroll-books-app/static/js/main.b6e8a329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba9826d.css",
+    "static/js/main.b6e8a329.js"
+  ]
+}
