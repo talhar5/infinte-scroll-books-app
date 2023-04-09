@@ -1,7 +1,7 @@
 {
   "name": "infinite-scroll",
   "version": "0.1.0",
-  "homepage": "https://1talhapk.github.io/infinite-scroll-books-app",
+  "homepage": "https://1talhapk.github.io/infinte-scroll-books-app",
   "private": true,
   "dependencies": { 
     "@testing-library/jest-dom": "^5.16.5",
